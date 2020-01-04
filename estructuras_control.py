@@ -1,9 +1,9 @@
-precio = 150
-if precio > 100:
-    precio = precio - 20
-elif precio >= 150:
-    precio +=50
+price = 150
+if price > 100:
+    price = price - 20
+elif price >= 150:
+    price += 50
 else:
-    precio = precio + 20
+    price = price + 20
 
-print(precio)
+print(price)
